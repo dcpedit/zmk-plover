@@ -1,0 +1,11 @@
+file_format: "1"
+id: teeshirt
+name: TeeShirt
+type: shield
+url: https://github.com/dcpedit/teeshirt
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
